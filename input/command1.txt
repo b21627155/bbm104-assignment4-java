@@ -1,0 +1,14 @@
+Q insertNumbers 23 4 1 45 12 16 7 19 53 22 47
+S insertNumbers 23 4 1 45 12 16 7 19 53 22 47
+Q reverse 4
+S reverse 3
+Q isExist 4
+Q isExist 54
+S checkNumber 14
+Q checkNumber 45
+S calculateFib 8
+S sumDistinctElements
+Q clear
+Q evenReverse 1 5 4 24 35 3 5 8 12
+Q insertNumbers 1 7 43
+Q sumDistinctElements

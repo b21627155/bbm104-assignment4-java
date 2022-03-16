@@ -1,0 +1,18 @@
+After insertNumbers 23 4 1 45 12 16 7 19 53 22 47:
+23 4 1 45 12 16 7 19 53 22 47
+After reverse 4:
+45 1 4 23 12 16 7 19 53 22 47
+After isExist 4:
+1
+After isExist 54:
+0
+After checkNumber 45:
+45 4 23 12 16 7 19 53 22 47 45
+After clear:
+
+After evenReverse 1 5 4 24 35 3 5 8 12:
+1 5 12 8 35 3 5 24 4
+After insertNumbers 1 7 43:
+1 5 12 8 35 3 5 24 4 1 7 43
+After sumDistinctElements:
+142
